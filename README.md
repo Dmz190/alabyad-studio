@@ -6,11 +6,13 @@
 An Arabic, right-to-left design editor for the "الأبيض" identity, with live preview on coffee
 cups and stickers. One self-contained HTML file. No install, no server, no network.
 
+**الاستوديو مباشرة على الإنترنت:** <https://dmz190.github.io/alabyad-studio/>
+
 ---
 
 ## التشغيل / Running
 
-افتح الملف وانتهى:
+افتحه من الرابط أعلاه مباشرة، أو نزّل الملف وافتحه محليًا:
 
 ```
 AlAbyad_Studio.html
